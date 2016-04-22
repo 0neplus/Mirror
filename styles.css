@@ -1,0 +1,70 @@
+body {
+    margin :0 0;
+}
+
+
+.weather-app {
+    background: #000;
+    margin: auto;
+    overflow: hidden;
+
+    font-family: "Mono";
+    font-weight: normal;
+}
+
+/* .left {
+    float: left;
+    background: #262626;
+    padding:10px;
+    width:150px;
+    height:100%;
+    color:white;
+} */
+
+.temperature {
+    color: #fff;
+    font-size:50px;
+    font-weight: normal;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.location {
+    color: #fff;
+    font-size: 30px;
+/*     width:100%;
+width:150px; */
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.right {
+    float: right;
+    width:130px;
+    height:100%;
+    margin-right: 300px;
+    margin-top: -110px;
+}
+
+.top {
+    height: 100px;
+    width: 100%;
+    margin: auto;
+}
+
+.top img {
+    margin-top: 15px;
+}
+
+.bottom {
+    height: 70px;
+    color: white;
+    font-weight: normal;
+}
+
+.humidity {
+    padding: 8px;
+}
+
+.wind {
+}
